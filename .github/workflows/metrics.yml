@@ -13,6 +13,20 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Ensure metrics branch exists
+        run: |
+          if ! git ls-remote --exit-code --heads origin metrics >/dev/null 2>&1; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git checkout --orphan metrics
+            git rm -rf . >/dev/null 2>&1 || true
+            git commit --allow-empty -m "chore: bootstrap metrics branch"
+            git push origin metrics
+          fi
+
       - name: Render metrics
         uses: lowlighter/metrics@latest
         with:
