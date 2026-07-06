@@ -1,0 +1,59 @@
+<svg width="900" height="290" viewBox="0 0 900 290" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="terminal">
+  <defs>
+    <linearGradient id="termBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="promptGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="4" y="4" width="892" height="282" rx="14" fill="#05070d" stroke="url(#termBorder)" stroke-width="1.4"/>
+  <rect x="4" y="4" width="892" height="38" rx="14" fill="#0b0f1e"/>
+  <rect x="4" y="26" width="892" height="16" fill="#0b0f1e"/>
+
+  <circle cx="30" cy="23" r="6" fill="#ef4444" opacity="0.85"/>
+  <circle cx="52" cy="23" r="6" fill="#f59e0b" opacity="0.85"/>
+  <circle cx="74" cy="23" r="6" fill="#22c55e" opacity="0.85"/>
+  <text x="450" y="28" text-anchor="middle" font-family="Consolas, monospace" font-size="13" fill="#5b6b8c">meghraj@dev — zsh</text>
+
+  <g font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="18">
+    <g opacity="0">
+      <text x="34" y="80" fill="url(#promptGrad)">$ whoami</text>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.04;0.06;0.85;0.92;1" dur="12s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0">
+      <text x="34" y="108" fill="#e2e8f0">meghraj-ravani</text>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.11;0.13;0.85;0.92;1" dur="12s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0">
+      <text x="34" y="146" fill="url(#promptGrad)">$ cat mission.txt</text>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.18;0.20;0.85;0.92;1" dur="12s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0">
+      <text x="34" y="174" fill="#e2e8f0">Building startup-scale software.</text>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.27;0.85;0.92;1" dur="12s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0">
+      <text x="34" y="200" fill="#c084fc">Architecting Hyperion — a Multi-Agent AI Swarm.</text>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.32;0.34;0.85;0.92;1" dur="12s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0">
+      <text x="34" y="238" fill="url(#promptGrad)">$ status --check</text>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.39;0.41;0.85;0.92;1" dur="12s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0">
+      <text x="34" y="266" fill="#34d399">[ok]<tspan fill="#94a3b8"> backend · ai-pipelines · shipping fast</tspan></text>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.46;0.48;0.85;0.92;1" dur="12s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0">
+      <rect x="380" y="252" width="11" height="20" fill="#e2e8f0">
+        <animate attributeName="opacity" values="1;0.15;1" dur="0.9s" repeatCount="indefinite"/>
+      </rect>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.53;0.55;0.85;0.92;1" dur="12s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
