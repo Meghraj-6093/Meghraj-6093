@@ -1,0 +1,31 @@
+<svg width="480" height="220" viewBox="0 0 480 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="footer loop">
+  <defs>
+    <filter id="fGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <g font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="22" filter="url(#fGlow)">
+    <text x="10" y="36" fill="#a7b4c8">while (alive) {</text>
+
+    <text x="42" y="76" fill="#5b6b8c">
+      Learn();
+      <animate attributeName="fill" values="#5b6b8c;#38bdf8;#5b6b8c" keyTimes="0;0.5;1" dur="4s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="42" y="112" fill="#5b6b8c">
+      Build();
+      <animate attributeName="fill" values="#5b6b8c;#818cf8;#5b6b8c" keyTimes="0;0.5;1" dur="4s" begin="1s" repeatCount="indefinite"/>
+    </text>
+    <text x="42" y="148" fill="#5b6b8c">
+      Ship();
+      <animate attributeName="fill" values="#5b6b8c;#c084fc;#5b6b8c" keyTimes="0;0.5;1" dur="4s" begin="2s" repeatCount="indefinite"/>
+    </text>
+    <text x="42" y="184" fill="#5b6b8c">
+      Repeat();
+      <animate attributeName="fill" values="#5b6b8c;#38bdf8;#5b6b8c" keyTimes="0;0.5;1" dur="4s" begin="3s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="10" y="212" fill="#a7b4c8">}<tspan dx="6" fill="#e2e8f0">▍<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+  </g>
+</svg>
