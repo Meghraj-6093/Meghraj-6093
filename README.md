@@ -184,8 +184,8 @@ Password generator. `CSS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Meghraj-6093&show_icons=true&hide_border=true&count_private=true&bg_color=05060d&title_color=38bdf8&icon_color=c084fc&text_color=94a3b8&hide_rank=false" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghraj-6093&layout=compact&hide_border=true&count_private=true&bg_color=05060d&title_color=38bdf8&text_color=94a3b8&langs_count=8" width="42%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Meghraj-6093&show_icons=true&hide_border=true&bg_color=05060d&title_color=38bdf8&icon_color=c084fc&text_color=94a3b8&hide_rank=false" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghraj-6093&layout=compact&hide_border=true&bg_color=05060d&title_color=38bdf8&text_color=94a3b8&langs_count=8" width="42%" alt="Top Languages" />
 
 <br/>
 
