@@ -5,7 +5,11 @@
       <stop offset="100%" stop-color="#c084fc"/>
     </linearGradient>
   </defs>
-  <circle cx="14" cy="14" r="10" stroke="url(#ig)" stroke-width="1.8"/>
-  <circle cx="14" cy="14" r="5.5" stroke="url(#ig)" stroke-width="1.8"/>
-  <circle cx="14" cy="14" r="1.4" fill="url(#ig)"/>
+  <g opacity="1">
+    <animate attributeName="opacity" values="0.72;1;0.72" dur="3.1s" begin="1.5s" repeatCount="indefinite"/>
+
+      <circle cx="14" cy="14" r="10" stroke="url(#ig)" stroke-width="1.8"/>
+      <circle cx="14" cy="14" r="5.5" stroke="url(#ig)" stroke-width="1.8"/>
+      <circle cx="14" cy="14" r="1.4" fill="url(#ig)"/>
+  </g>
 </svg>

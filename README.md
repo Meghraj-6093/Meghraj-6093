@@ -4,11 +4,11 @@
 
 <br/>
 
-<img src="assets/typing.svg" alt="what I'm building" />
+<img src="assets/typing.svg" width="90%" alt="what I'm building" />
 
 <br/><br/>
 
-<img src="assets/terminal.svg" width="640" alt="terminal" />
+<img src="assets/terminal.svg" width="85%" alt="terminal" />
 
 </div>
 
@@ -56,26 +56,22 @@ const meghraj = {
 
 ## <img src="assets/icons/projects.svg" width="22" height="22" valign="middle"/>&nbsp; Featured Projects
 
-<table>
-<tr><td width="100%">
+<img src="assets/icons/dot-live.svg" width="12" height="12" valign="middle"/> `public / active build` &nbsp;&nbsp; <img src="assets/icons/dot-private.svg" width="12" height="12" valign="middle"/> `private repository`
 
-### ⟠ Hyperion
+### <img src="assets/icons/dot-live.svg" width="12" height="12" valign="middle"/> Hyperion
 **Multi-Agent AI Swarm** — currently in active development.
 
-![status](https://img.shields.io/badge/status-in%20development-1b2440?style=flat-square&labelColor=1b2440&color=c084fc)
 ![orchestration](https://img.shields.io/badge/-Agent%20Orchestration-10162b?style=flat-square)
 ![memory](https://img.shields.io/badge/-Memory-10162b?style=flat-square)
 ![tool-calling](https://img.shields.io/badge/-Tool%20Calling-10162b?style=flat-square)
 ![autonomous](https://img.shields.io/badge/-Autonomous%20Workflows-10162b?style=flat-square)
 ![scalable](https://img.shields.io/badge/-Scalable%20Architecture-10162b?style=flat-square)
 
-</td></tr>
-<tr><td width="100%">
+<img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-### ⟠ MetroA1Perfume
+### <img src="assets/icons/dot-private.svg" width="12" height="12" valign="middle"/> MetroA1Perfume
 **Production-ready PHP E-Commerce platform.**
 
-![status](https://img.shields.io/badge/status-private-1b2440?style=flat-square&labelColor=1b2440&color=94a3b8)
 ![cms](https://img.shields.io/badge/-CMS-10162b?style=flat-square)
 ![inventory](https://img.shields.io/badge/-Inventory-10162b?style=flat-square)
 ![orders](https://img.shields.io/badge/-Orders-10162b?style=flat-square)
@@ -85,97 +81,62 @@ const meghraj = {
 
 **[→ View Repository](https://github.com/Meghraj-6093/MetroA1Perfume)**
 
-</td></tr>
-</table>
+<img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⟠ AuroraMusic
-Modern music streaming platform.
-
-`TypeScript`
+### <img src="assets/icons/dot-private.svg" width="12" height="12" valign="middle"/> AuroraMusic
+Modern music streaming platform. `TypeScript`
 
 **[→ View Repository](https://github.com/Meghraj-6093/AuroraMusic)**
 
-</td>
-<td width="50%" valign="top">
+<img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-### ⟠ ClaudeCompanionPro
-Desktop productivity toolkit.
-
-`JavaScript`
+### <img src="assets/icons/dot-private.svg" width="12" height="12" valign="middle"/> ClaudeCompanionPro
+Desktop productivity toolkit. `JavaScript`
 
 **[→ View Repository](https://github.com/Meghraj-6093/ClaudeCompanionPro)**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-### ⟠ PhantomChat
-Real-time chat platform.
-
-`JavaScript`
+### <img src="assets/icons/dot-private.svg" width="12" height="12" valign="middle"/> PhantomChat
+Real-time chat platform. `JavaScript`
 
 **[→ View Repository](https://github.com/Meghraj-6093/PhantomChat)**
 
-</td>
-<td width="50%" valign="top">
+<img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-### ⟠ LogForge
-Internship logbook management software.
-
-`JavaScript`
+### <img src="assets/icons/dot-live.svg" width="12" height="12" valign="middle"/> LogForge
+Internship logbook management software. `JavaScript`
 
 **[→ View Repository](https://github.com/Meghraj-6093/LogForge)**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-### ⟠ Noted
-Modern note-taking application.
-
-`CSS`
+### <img src="assets/icons/dot-private.svg" width="12" height="12" valign="middle"/> Noted
+Modern note-taking application. `CSS`
 
 **[→ View Repository](https://github.com/Meghraj-6093/Noted-Notepad)**
 
-</td>
-<td width="50%" valign="top">
+<img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-### ⟠ Pokedex
-Pokémon API application.
-
-`CSS`
+### <img src="assets/icons/dot-private.svg" width="12" height="12" valign="middle"/> Pokedex
+Pokémon API application. `CSS`
 
 **[→ View Repository](https://github.com/Meghraj-6093/Pokedex)**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-### ⟠ PassGen
-Password generator.
-
-`CSS`
+### <img src="assets/icons/dot-private.svg" width="12" height="12" valign="middle"/> PassGen
+Password generator. `CSS`
 
 **[→ View Repository](https://github.com/Meghraj-6093/PassGen)**
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-### ⟠ More
-Everything else lives on GitHub.
+<div align="center">
 
 **[→ View all repositories](https://github.com/Meghraj-6093?tab=repositories)**
 
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 <img src="assets/divider.svg" width="100%" height="10" alt="" />
@@ -223,8 +184,8 @@ Everything else lives on GitHub.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Meghraj-6093&show_icons=true&hide_border=true&bg_color=05060d&title_color=38bdf8&icon_color=c084fc&text_color=94a3b8&hide_rank=false" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghraj-6093&layout=compact&hide_border=true&bg_color=05060d&title_color=38bdf8&text_color=94a3b8&langs_count=8" width="42%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Meghraj-6093&show_icons=true&hide_border=true&count_private=true&bg_color=05060d&title_color=38bdf8&icon_color=c084fc&text_color=94a3b8&hide_rank=false" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghraj-6093&layout=compact&hide_border=true&count_private=true&bg_color=05060d&title_color=38bdf8&text_color=94a3b8&langs_count=8" width="42%" alt="Top Languages" />
 
 <br/>
 
@@ -281,10 +242,6 @@ Everything else lives on GitHub.
 
 ## <img src="assets/icons/roadmap.svg" width="22" height="22" valign="middle"/>&nbsp; Roadmap
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 **Shipped**
 
 - [x] REST APIs
@@ -294,9 +251,6 @@ Everything else lives on GitHub.
 - [x] SQL
 - [x] Real-time Apps
 
-</td>
-<td width="50%" valign="top">
-
 **In Progress**
 
 - [ ] AI Agent Framework
@@ -305,17 +259,13 @@ Everything else lives on GitHub.
 - [ ] Distributed Systems
 - [ ] Startup Launch
 
-</td>
-</tr>
-</table>
-
 <div align="center">
 <img src="assets/divider.svg" width="100%" height="10" alt="" />
 </div>
 
 <div align="center">
 
-<img src="assets/footer.svg" width="360" alt="while alive loop" />
+<img src="assets/footer.svg" width="45%" alt="while alive loop" />
 
 <sub>Meghraj Ravani · built with intent, shipped with discipline</sub>
 
