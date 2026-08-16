@@ -1,11 +1,3 @@
-<div align="center">
-
-# ⚡ meghraj@github :: developer profile
-
-</div>
-
-<br />
-
 <table>
 <tr>
 <td width="42%" align="center" valign="middle">
