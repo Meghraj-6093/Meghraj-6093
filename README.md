@@ -77,16 +77,16 @@ I build web applications, backend systems, and AI-powered software with a focus 
       <code>Python</code> <code>AI Swarm</code> <code>System Design</code>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Meghraj-6093/AuroraMusic">🎵 AuroraMusic</a></h4>
-      <p><b>Modern Music Streaming Platform</b><br />High-performance audio streaming platform with playlists and real-time playback.</p>
-      <code>React</code> <code>Node.js</code> <code>Web Audio API</code>
+      <h4><a href="https://github.com/Meghraj-6093/LogForge">📋 LogForge</a></h4>
+      <p><b>Internship Logbook Management Software</b><br />Streamlined logbook reporting and milestone tracking platform for engineering students.</p>
+      <code>PHP</code> <code>PostgreSQL</code> <code>Bootstrap</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Meghraj-6093/MetroA1Perfume">🛍️ MetroA1Perfume</a></h4>
-      <p><b>PHP E-Commerce Platform</b><br />Full-featured commercial store with custom cart engine, checkout, and inventory system.</p>
-      <code>PHP</code> <code>MySQL</code> <code>JavaScript</code>
+      <h4><a href="https://github.com/Meghraj-6093/PhantomChat">💬 PhantomChat</a></h4>
+      <p><b>Real-time Chat Platform</b><br />Instant encrypted messaging service with room switching, presence tracking, and zero latency.</p>
+      <code>Node.js</code> <code>WebSockets</code> <code>Firebase</code>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Meghraj-6093/ClaudeCompanionPro">⚡ ClaudeCompanionPro</a></h4>
@@ -96,14 +96,26 @@ I build web applications, backend systems, and AI-powered software with a focus 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Meghraj-6093/PhantomChat">💬 PhantomChat</a></h4>
-      <p><b>Real-time Chat Platform</b><br />Instant encrypted messaging service with room switching, presence tracking, and low latency.</p>
-      <code>Node.js</code> <code>WebSockets</code> <code>Firebase</code>
+      <h4><a href="https://github.com/Meghraj-6093/QrForge">🔲 QrForge</a></h4>
+      <p><b>Privacy-First QR Code Studio</b><br />Client-side customizable QR code studio with logo embedding, custom styles, and high-res export.</p>
+      <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Meghraj-6093/LogForge">📋 LogForge</a></h4>
-      <p><b>Internship Logbook Management Software</b><br />Streamlined logbook reporting and milestone tracking platform for engineering students.</p>
-      <code>PHP</code> <code>PostgreSQL</code> <code>Bootstrap</code>
+      <h4><a href="https://github.com/Meghraj-6093/TypeLens">⌨️ TypeLens</a></h4>
+      <p><b>Typing Technique Coach & Race Game</b><br />Interactive typing trainer with real-time finger-placement analytics and multiplayer races.</p>
+      <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Meghraj-6093/WebLens">🔍 WebLens</a></h4>
+      <p><b>Technical Diagnostics & Health Auditing</b><br />Automated website health auditing platform with deterministic scoring and local-first privacy.</p>
+      <code>TypeScript</code> <code>React</code> <code>Playwright</code> <code>Node.js</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Meghraj-6093/Spidey-Pet">🕸️ Spidey-Pet</a></h4>
+      <p><b>Interactive Pixel-Art Web Companion</b><br />Physics-driven Spider-Man desktop pet with Verlet rope physics, DOM targeting, and sprite animations.</p>
+      <code>TypeScript</code> <code>HTML5 Canvas</code> <code>Physics</code>
     </td>
   </tr>
 </table>
