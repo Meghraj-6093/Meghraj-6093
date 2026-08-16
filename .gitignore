@@ -1,0 +1,38 @@
+# Node / Build artifacts
+node_modules/
+dist/
+build/
+.next/
+out/
+
+# Dependencies & Package Managers
+.pnp
+.pnp.js
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment & Secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+
+# Editor & OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+
+# Logs & Temporary files
+logs/
+*.log
+.temp/
+.tmp/

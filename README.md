@@ -1,272 +1,133 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Meghraj Ravani" />
-
-<br/>
-
-<img src="assets/typing.svg" width="90%" alt="what I'm building" />
-
-<br/><br/>
-
-<img src="assets/terminal.svg" width="85%" alt="terminal" />
+# ⚡ meghraj@github :: developer profile
 
 </div>
 
-<br/>
+<br />
 
-<div align="center">
-<img src="assets/divider.svg" width="100%" height="10" alt="" />
-</div>
+<table>
+<tr>
+<td width="42%" align="center" valign="middle">
+  <img src="./assets/pixelated-portrait.png" width="100%" style="max-width: 360px; border-radius: 12px; border: 1px solid #30363d;" alt="Meghraj Ravani - Pixel Matrix Portrait" />
+  <p align="center"><sub><code>● interactive matrix portrait</code></sub></p>
+</td>
+<td width="58%" valign="top">
 
-## <img src="assets/icons/about.svg" width="22" height="22" valign="middle"/>&nbsp; About Me
+```zsh
+meghraj@github
+─────────────────────────────────────────────────────────────────
+Username    :: Meghraj-6093
+Role        :: Full-Stack Developer
+Location    :: Jamnagar, Gujarat, India
+Education   :: Diploma in Computer Engineering
+Focus       :: AI Agents · Backend · System Design
+Building    :: Hyperion — Multi-Agent AI Swarm
+─────────────────────────────────────────────────────────────────
+$ cat /etc/stack
 
-```js
-const meghraj = {
-  role: ["Full-Stack Developer", "AI Engineer (Learning)", "Backend Developer"],
-  currentlyBuilding: "Hyperion — a Multi-Agent AI Swarm",
-  activeProjects: ["Hyperion", "AuroraMusic", "MetroA1Perfume"],
-  interests: ["AI Agents", "System Design", "Distributed Systems", "Open Source"],
-  tech: {
-    languages: ["JavaScript", "Python", "PHP", "Java", "C", "C++"],
-    frameworks: ["React", "Node.js", "Flask", "Bootstrap"],
-    databases: ["MySQL", "PostgreSQL", "Firebase", "Supabase"],
-  },
-  goals: "Build startup-scale software and ship production-ready systems.",
-};
+Languages   :: JavaScript · Python · PHP · Java · C · C++
+Frontend    :: React · Bootstrap · HTML · CSS
+Backend     :: Node.js · Flask
+Database    :: MySQL · PostgreSQL · Firebase · Supabase
+Tools       :: Git · GitHub · Docker · VS Code
+─────────────────────────────────────────────────────────────────
+$ cat /etc/focus
+
+Currently   :: Building Hyperion
+Learning    :: AI Agents · System Design · Distributed Systems
+Goal        :: Build production-ready software
 ```
 
-<div align="center">
-<img src="assets/divider.svg" width="100%" height="10" alt="" />
-</div>
+</td>
+</tr>
+</table>
 
-## <img src="assets/icons/contact.svg" width="22" height="22" valign="middle"/>&nbsp; Connect
+<br />
 
-<div align="center">
+### ⚡ About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-05060d?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Meghraj-6093)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-05060d?style=for-the-badge&logo=linkedin&logoColor=818CF8)](https://linkedin.com/in/meghraj-ravani)
-[![Email](https://img.shields.io/badge/Email-05060d?style=for-the-badge&logo=gmail&logoColor=C084FC)](mailto:meghrajravani@gmail.com)
-![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-05060d?style=for-the-badge&logoColor=5b6b8c)
+I'm **Meghraj Ravani**, a Full-Stack Developer and Computer Engineering student from Jamnagar, Gujarat, India.
 
-</div>
+I build web applications, backend systems, and AI-powered software with a focus on clean architecture, performance, and practical engineering.
 
-<div align="center">
-<img src="assets/divider.svg" width="100%" height="10" alt="" />
-</div>
+> ➜ **Currently building [Hyperion](https://github.com/Meghraj-6093/Hyperion) — a Multi-Agent AI Swarm.**
 
-## <img src="assets/icons/projects.svg" width="22" height="22" valign="middle"/>&nbsp; Featured Projects
+---
 
-<img src="assets/icons/dot-live.svg" width="12" height="12" valign="middle"/> `public / active build` &nbsp;&nbsp; <img src="assets/icons/dot-private.svg" width="12" height="12" valign="middle"/> `private repository`
+### 🛠️ Tech Stack
 
-### <img src="assets/icons/dot-live.svg" width="12" height="12" valign="middle"/> Hyperion
-**Multi-Agent AI Swarm** — currently in active development.
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `JavaScript` `Python` `PHP` `Java` `C` `C++` `HTML5` `CSS3` |
+| **Frontend** | `React` `Tailwind CSS` `Bootstrap` `Next.js` |
+| **Backend** | `Node.js` `Express` `Flask` `PHP Core` `RESTful APIs` |
+| **Database** | `MySQL` `PostgreSQL` `Firebase` `Supabase` |
+| **Tools & DevOps** | `Git` `GitHub` `Docker` `VS Code` `Postman` `Linux` |
 
-![orchestration](https://img.shields.io/badge/-Agent%20Orchestration-10162b?style=flat-square)
-![memory](https://img.shields.io/badge/-Memory-10162b?style=flat-square)
-![tool-calling](https://img.shields.io/badge/-Tool%20Calling-10162b?style=flat-square)
-![autonomous](https://img.shields.io/badge/-Autonomous%20Workflows-10162b?style=flat-square)
-![scalable](https://img.shields.io/badge/-Scalable%20Architecture-10162b?style=flat-square)
+---
 
-<img src="assets/divider.svg" width="100%" height="6" alt="" />
+### 🚀 Featured Projects
 
-### <img src="assets/icons/dot-private.svg" width="12" height="12" valign="middle"/> MetroA1Perfume
-**Production-ready PHP E-Commerce platform.**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Meghraj-6093/Hyperion">🛰️ Hyperion</a></h4>
+      <p><b>Multi-Agent AI Swarm</b><br />Autonomous multi-agent orchestration architecture for parallel reasoning and problem solving.</p>
+      <code>Python</code> <code>AI Swarm</code> <code>System Design</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Meghraj-6093/AuroraMusic">🎵 AuroraMusic</a></h4>
+      <p><b>Modern Music Streaming Platform</b><br />High-performance audio streaming platform with playlists and real-time playback.</p>
+      <code>React</code> <code>Node.js</code> <code>Web Audio API</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Meghraj-6093/MetroA1Perfume">🛍️ MetroA1Perfume</a></h4>
+      <p><b>PHP E-Commerce Platform</b><br />Full-featured commercial store with custom cart engine, checkout, and inventory system.</p>
+      <code>PHP</code> <code>MySQL</code> <code>JavaScript</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Meghraj-6093/ClaudeCompanionPro">⚡ ClaudeCompanionPro</a></h4>
+      <p><b>Desktop Productivity Toolkit</b><br />Native assistant toolkit empowering developers with workflow shortcuts and LLM context.</p>
+      <code>TypeScript</code> <code>Electron</code> <code>APIs</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Meghraj-6093/PhantomChat">💬 PhantomChat</a></h4>
+      <p><b>Real-time Chat Platform</b><br />Instant encrypted messaging service with room switching, presence tracking, and low latency.</p>
+      <code>Node.js</code> <code>WebSockets</code> <code>Firebase</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Meghraj-6093/LogForge">📋 LogForge</a></h4>
+      <p><b>Internship Logbook Management Software</b><br />Streamlined logbook reporting and milestone tracking platform for engineering students.</p>
+      <code>PHP</code> <code>PostgreSQL</code> <code>Bootstrap</code>
+    </td>
+  </tr>
+</table>
 
-![cms](https://img.shields.io/badge/-CMS-10162b?style=flat-square)
-![inventory](https://img.shields.io/badge/-Inventory-10162b?style=flat-square)
-![orders](https://img.shields.io/badge/-Orders-10162b?style=flat-square)
-![analytics](https://img.shields.io/badge/-Analytics-10162b?style=flat-square)
-![responsive](https://img.shields.io/badge/-Responsive-10162b?style=flat-square)
-![auth](https://img.shields.io/badge/-Authentication-10162b?style=flat-square)
+---
 
-**[→ View Repository](https://github.com/Meghraj-6093/MetroA1Perfume)**
+### 🔗 Connect
 
-<img src="assets/divider.svg" width="100%" height="6" alt="" />
+<p align="left">
+  <a href="https://github.com/Meghraj-6093">
+    <img src="https://img.shields.io/badge/GitHub-Meghraj--6093-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/meghraj-ravani">
+    <img src="https://img.shields.io/badge/LinkedIn-Meghraj_Ravani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:meghrajravani6093@gmail.com">
+    <img src="https://img.shields.io/badge/Email-meghrajravani6093%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-### <img src="assets/icons/dot-private.svg" width="12" height="12" valign="middle"/> AuroraMusic
-Modern music streaming platform. `TypeScript`
-
-**[→ View Repository](https://github.com/Meghraj-6093/AuroraMusic)**
-
-<img src="assets/divider.svg" width="100%" height="6" alt="" />
-
-### <img src="assets/icons/dot-private.svg" width="12" height="12" valign="middle"/> ClaudeCompanionPro
-Desktop productivity toolkit. `JavaScript`
-
-**[→ View Repository](https://github.com/Meghraj-6093/ClaudeCompanionPro)**
-
-<img src="assets/divider.svg" width="100%" height="6" alt="" />
-
-### <img src="assets/icons/dot-private.svg" width="12" height="12" valign="middle"/> PhantomChat
-Real-time chat platform. `JavaScript`
-
-**[→ View Repository](https://github.com/Meghraj-6093/PhantomChat)**
-
-<img src="assets/divider.svg" width="100%" height="6" alt="" />
-
-### <img src="assets/icons/dot-live.svg" width="12" height="12" valign="middle"/> LogForge
-Internship logbook management software. `JavaScript`
-
-**[→ View Repository](https://github.com/Meghraj-6093/LogForge)**
-
-<img src="assets/divider.svg" width="100%" height="6" alt="" />
-
-### <img src="assets/icons/dot-private.svg" width="12" height="12" valign="middle"/> Noted
-Modern note-taking application. `CSS`
-
-**[→ View Repository](https://github.com/Meghraj-6093/Noted-Notepad)**
-
-<img src="assets/divider.svg" width="100%" height="6" alt="" />
-
-### <img src="assets/icons/dot-private.svg" width="12" height="12" valign="middle"/> Pokedex
-Pokémon API application. `CSS`
-
-**[→ View Repository](https://github.com/Meghraj-6093/Pokedex)**
-
-<img src="assets/divider.svg" width="100%" height="6" alt="" />
-
-### <img src="assets/icons/dot-private.svg" width="12" height="12" valign="middle"/> PassGen
-Password generator. `CSS`
-
-**[→ View Repository](https://github.com/Meghraj-6093/PassGen)**
-
-<br/>
+<br />
 
 <div align="center">
-
-**[→ View all repositories](https://github.com/Meghraj-6093?tab=repositories)**
-
-</div>
-
-<div align="center">
-<img src="assets/divider.svg" width="100%" height="10" alt="" />
-</div>
-
-## <img src="assets/icons/stack.svg" width="22" height="22" valign="middle"/>&nbsp; Tech Stack
-
-<div align="center">
-<img src="assets/stack-marquee.svg" width="100%" alt="tech marquee" />
-</div>
-
-<br/>
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,python,php,java,c,cpp,html,css&theme=dark" alt="languages" />
-
-<br/><br/>
-
-**Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=bootstrap,react,nodejs,flask&theme=dark" alt="frameworks" />
-
-<br/><br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,postgres&theme=dark" alt="databases" />
-
-<br/><br/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" alt="tools" />
-
-</div>
-
-<div align="center">
-<img src="assets/divider.svg" width="100%" height="10" alt="" />
-</div>
-
-## <img src="assets/icons/stats.svg" width="22" height="22" valign="middle"/>&nbsp; GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Meghraj-6093&show_icons=true&hide_border=true&bg_color=05060d&title_color=38bdf8&icon_color=c084fc&text_color=94a3b8&hide_rank=false" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghraj-6093&layout=compact&hide_border=true&bg_color=05060d&title_color=38bdf8&text_color=94a3b8&langs_count=8" width="42%" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Meghraj-6093&theme=dark&hide_border=true&background=05060d&stroke=0a0f1e&ring=38bdf8&fire=c084fc&currStreakLabel=38bdf8&sideLabels=818cf8&dates=5b6b8c" width="70%" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meghraj-6093&theme=react-dark&bg_color=05060d&color=38bdf8&line=818cf8&point=c084fc&area=true&hide_border=true" width="90%" alt="Contribution Graph" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Meghraj-6093&theme=algolia&no-frame=true&column=4&margin-w=8&margin-h=8&row=2" width="90%" alt="GitHub Trophies" />
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Meghraj-6093&color=38bdf8&style=flat-square&label=PROFILE+VIEWS)
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Meghraj-6093/Meghraj-6093/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Contribution Animation" />
-
-</div>
-
-<details>
-<summary><b>GitHub Metrics (extended report)</b></summary>
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Meghraj-6093/Meghraj-6093/metrics/github-metrics.svg" width="100%" alt="GitHub Metrics" />
-</div>
-
-</details>
-
-<div align="center">
-<img src="assets/divider.svg" width="100%" height="10" alt="" />
-</div>
-
-## <img src="assets/icons/learning.svg" width="22" height="22" valign="middle"/>&nbsp; Currently Learning
-
-<div align="center">
-
-![AI Agents](https://img.shields.io/badge/-AI%20Agents-10162b?style=for-the-badge)
-![System Design](https://img.shields.io/badge/-System%20Design-10162b?style=for-the-badge)
-![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-10162b?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/-Cloud-10162b?style=for-the-badge)
-![DevOps](https://img.shields.io/badge/-DevOps-10162b?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/-Open%20Source-10162b?style=for-the-badge)
-
-</div>
-
-<div align="center">
-<img src="assets/divider.svg" width="100%" height="10" alt="" />
-</div>
-
-## <img src="assets/icons/roadmap.svg" width="22" height="22" valign="middle"/>&nbsp; Roadmap
-
-**Shipped**
-
-- [x] REST APIs
-- [x] Authentication
-- [x] CMS
-- [x] Firebase
-- [x] SQL
-- [x] Real-time Apps
-
-**In Progress**
-
-- [ ] AI Agent Framework
-- [ ] Kubernetes
-- [ ] Rust
-- [ ] Distributed Systems
-- [ ] Startup Launch
-
-<div align="center">
-<img src="assets/divider.svg" width="100%" height="10" alt="" />
-</div>
-
-<div align="center">
-
-<img src="assets/footer.svg" width="45%" alt="while alive loop" />
-
-<sub>Meghraj Ravani · built with intent, shipped with discipline</sub>
-
+  <sub><code>Meghraj Ravani &copy; 2026 &middot; Terminal Developer Profile</code></sub>
 </div>
