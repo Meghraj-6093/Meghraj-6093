@@ -53,9 +53,9 @@ I build web applications, backend systems, and AI-powered software with a focus 
 | :--- | :--- |
 | **Languages** | `JavaScript` `Python` `PHP` `Java` `C` `C++` `HTML5` `CSS3` |
 | **Frontend** | `React` `Tailwind CSS` `Bootstrap` `Next.js` |
-| **Backend** | `Node.js` `Express` `Flask` `PHP Core` `RESTful APIs` |
+| **Backend** | `Node.js` `Express` `Flask` `PHP Core`|
 | **Database** | `MySQL` `PostgreSQL` `Firebase` `Supabase` |
-| **Tools & DevOps** | `Git` `GitHub` `Docker` `VS Code` `Postman` `Linux` |
+| **Tools & DevOps** | `Git` `GitHub` `Docker` `VS Code` `Linux` |
 
 ---
 
